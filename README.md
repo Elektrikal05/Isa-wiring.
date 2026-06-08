@@ -495,4 +495,4 @@
         updateSlider();
     </script>
 </body>
-</html>
+</html
